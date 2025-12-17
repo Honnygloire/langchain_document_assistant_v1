@@ -30,11 +30,13 @@ langchain/
 
 1. **Cloner le repo**
    ```bash
-   git clone https://github.com/<ton-user>/langchain-document-assistant-v1.git
+   git clone https://github.com/Honnygloire/langchain_document_assistant_v1.git
    cd langchain-document-assistant-v1
-2. **Installer les dépedances*
-pip install -r requirements.txt
-
+   ```
+2. **Installer les dépedances**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Explication des choix
 
